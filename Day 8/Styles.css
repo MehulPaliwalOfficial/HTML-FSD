@@ -1,10 +1,12 @@
 h1{
     color: red;
     background-color: yellow;
-}
+    width: 155px;
+    }
 p{
     color: yellow;
     background-color: black;
+    width: 250px;
 }
 #Fourth{
     background-color: aqua;
@@ -12,4 +14,15 @@ p{
 
 .Text{
     background-color: lightsalmon;
+}
+
+span{
+    color: saddlebrown;
+    background-color: lightskyblue;
+    width: 200px;
+}
+
+body{
+    background-image: url(./AIII.png);
+    background-size: cover;
 }
