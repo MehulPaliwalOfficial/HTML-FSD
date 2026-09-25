@@ -7,5 +7,26 @@ h1{
 
 #try{
     
-    text-decoration: underline overline red;
+    text-decoration: underline overline wavy   red;
+    font-family: "Brush Script MT";
+    font-size: xx-large;
+}
+
+#sec{
+    font-family: "Brush Script MT";
+    font-size: 40px;
+}
+
+.Text{
+    text-decoration: underline solid darkred ;
+    font-family: "Bookman Old Style";
+    font-size: x-large;
+}
+
+#Fourth{
+    text-decoration: overline dotted darkgreen;
+    font-family: "Zeyada";
+    font-weight: bold;
+    font-size: x-large;
+
 }
