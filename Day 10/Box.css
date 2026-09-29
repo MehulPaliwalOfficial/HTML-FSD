@@ -1,0 +1,48 @@
+body{
+    color: purple;
+}
+.Mehul{
+    color: orangered;
+    margin: 10px auto;
+    border: 4px solid black;
+    padding: 20px;
+    background-color: darkblue;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+.Welcome{
+    color: orangered;
+    margin: 10px auto;
+    border: 4px solid black;
+    padding: 20px;
+    background-color: darkblue;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+/* #try{
+    
+    text-decoration: underline overline red;
+    font-family: "Brush Script MT";
+    font-size: xx-large;
+}
+
+#sec{
+    font-family: "Brush Script MT";
+    font-size: 40px;
+}
+
+.Text{
+    text-decoration: underline solid darkred ;
+    font-family: "Bookman Old Style";
+    font-size: x-large;
+}
+
+#Fourth{
+    text-decoration: overline dotted darkgreen;
+    font-family: "Zeyada";
+    font-weight: bold;
+    font-size: x-large;
+
+} */
