@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+.Item-1 {
+    height: 300px;
+    width: 500px;
+    background-color: red;
+    border: 10px solid black;
+    border-radius: 100px;
+}
+
+.Item-2 {
+    height: 300px;
+    width: 40%;
+    background-color: orange;
+    border: 10px solid darkgreen;
+}
+
+.Item-3 {
+    height: 300px;
+    width: 40vw;
+    background-color: blue;
+    border: 10px solid darkviolet;
+}
