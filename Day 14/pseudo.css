@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    background-color: darkgoldenrod;
+    border-bottom: 1px solid black;
+}
+
+h2 {
+    
+}
+
+div {
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    gap: 5%;
+}
+
+.info { 
+    gap: 2px;
+}
