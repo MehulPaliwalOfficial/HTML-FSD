@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    gap: 12px;
+    
+}
+
+nav {
+    display: none;
+    border: 1px solid gray;
+    background-color: lightgray;
+    flex-direction: column;
+    gap: 12px;
+    padding: 12px;
+    border-radius: 8px;
+    width: fit-content;
+    
+    position: absolute;
+    /* z-index: -1; */
+    top: 40px;
+}
+
+.mbtns {
+    display: none;
+}
+
+.menu-container {
+    order: -1;
+    background-color: orangered;
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+}
+
+.menu-container:hover nav {
+    display: flex;
+    background-color: yellow;
+}
