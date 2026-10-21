@@ -1,5 +1,15 @@
-const c1=90;
-console.log(c1);
+let firstName = 'Mehul';
+let lastName = 'Paliwal';
+console.log(firstName+lastName)
+console.log(firstName, lastName);
+console.log(firstName+ '  '+ lastName);
 
-c1 = 70;
-console.log(c1);
+// --------------------------------------------------------------
+
+const msg = "Total";
+const price = 300;
+const tax = 5;
+console.log(msg + price + tax);
+console.log(price + tax + msg);
+console.log(`${msg} = ${price + tax}`)
+// ---------------------------------------------------------------
